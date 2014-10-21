@@ -1,5 +1,22 @@
 Ad Service Memo
 
+■キーワード
+・アドサーバ
+・アドネットワーク
+・アドエクスチェンジ
+・DSP(Demand Side Plateform)
+・SSP(Supply Side Plateform)
+・DMP(Data Manage Plateform)
+
+■比較サイト
+・DSP,SSP,アドネットワーク比較
+http://www.ever-rise.co.jp/adtech-blog/wanavi_new.html
+
+■アドネットワーク
+サイト群をまとめて、販売する仕組み
+■アドエクスチェンジ（adExchange）
+サイト内の広告枠単位で、販売する仕組み
+
 ■DSP
 ・DSPとは？
 http://koho.mediba.jp/2012/07/25/%E4%BB%8A%E8%A9%B1%E9%A1%8C%E3%81%AE%E3%80%8Cdsp%E3%80%8D%E3%81%A8%E3%81%AF%EF%BC%81%EF%BC%9F/
@@ -18,4 +35,8 @@ http://matome.naver.jp/odai/2137199150445294101
 http://markezine.jp/article/detail/19009
 ・DMPの仕組み
 http://markezine.jp/article/detail/19196
+
+■SSP
+・SSP一覧（国内）
+http://www.xlisting.co.jp/marketing-x/adtechnology/marketing/adexchange-ssp-services-and-features
 
