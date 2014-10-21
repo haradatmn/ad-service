@@ -8,6 +8,15 @@ Ad Service Memo
 ・SSP(Supply Side Plateform)
 ・DMP(Data Manage Plateform)
 
+■アドテク
+・アドテクノロジーの基礎知識
+http://matome.naver.jp/odai/2130277475679570001
+・アドテクの仕組みと成功事例
+http://dmlab.jp/adtech.html
+・アドテクノロジー概論 ※アドテクの編成
+http://marketingis.jp/archives/1844
+
+
 ■比較サイト
 ・DSP,SSP,アドネットワーク比較
 http://www.ever-rise.co.jp/adtech-blog/wanavi_new.html
@@ -35,8 +44,17 @@ http://matome.naver.jp/odai/2137199150445294101
 http://markezine.jp/article/detail/19009
 ・DMPの仕組み
 http://markezine.jp/article/detail/19196
+・プライベートDMPの機能
+http://www.ever-rise.co.jp/adtech-blog/function-of-private-dmp.html
+
 
 ■SSP
 ・SSP一覧（国内）
 http://www.xlisting.co.jp/marketing-x/adtechnology/marketing/adexchange-ssp-services-and-features
+
+・SSP軸
+特徴
+デバイス
+連携ネットワーク
+DMP連携有無
 
